@@ -10,3 +10,4 @@ routes.use('/products', productsRouter);
 routes.use('/orders', ordersRouter);
 
 export default routes;
+// /teste
